@@ -25,7 +25,7 @@ my_ratio <- 5/8
 # Plot flags --------------------------------------------------------------
 
 
-# Pride Flag
+# Rainbow Flag
 
 ggplot() +
   annotate("rect", xmin = 0, xmax = 6, ymin = 0:5, ymax = 1:6, fill = I(rainbow)) +
@@ -44,7 +44,7 @@ ggplot() +
 
 
 
-# Progressive Pride Flag
+# Progress Pride Flag
 ggplot() +
   annotate("rect", xmin = 0, xmax = 6, ymin = 0:5, ymax = 1:6, fill = I(rainbow)) +
   annotate("polygon", x = c(0, 0, .9, 2.7, .9, 0), y = c(0, 6, 6, 3, 0, 0), alpha = 1, fill = k) +
@@ -58,7 +58,7 @@ ggplot() +
 
 
 
-# Progressive Inclusive Pride Flag
+# Intersex Inclusive Progress Pride Flag
 ggplot() +
   annotate("rect", xmin = 0, xmax = 6, ymin = 0:5, ymax = 1:6, fill = I(rainbow)) +
   annotate("polygon", x = c(0, 0, 1.7, 3.4, 1.7, 0), y = c(0, 6, 6, 3, 0, 0), 
