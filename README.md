@@ -1,3 +1,3 @@
 ![](pride_flag.png)
 
-Alt-text: A panel with four pride flags: top left the standard pride rainbow flag; top right: the trans flag; bottom left: the progressive rainbow flag; bottom right: the progressive intersex inclusive rainbow flag.
+Alt-text: A panel with four pride flags: top left the six-stripe rainbow flag; top right: the trans flag; bottom left: the progress pride flag; bottom right: the intersex inclusive progress pride flag.
